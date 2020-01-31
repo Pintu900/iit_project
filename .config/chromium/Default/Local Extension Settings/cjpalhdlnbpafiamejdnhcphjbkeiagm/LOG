@@ -1,0 +1,22 @@
+2020/01/31-12:12:05.124 4ce Reusing MANIFEST /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2020/01/31-12:12:05.125 4ce Recovering log #49
+2020/01/31-12:12:05.188 4ce Reusing old log /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000049.log 
+2020/01/31-12:15:16.846 6ba Level-0 table #53: started
+2020/01/31-12:15:17.196 6ba Level-0 table #53: 2857837 bytes OK
+2020/01/31-12:15:17.202 6ba Delete type=0 #49
+2020/01/31-12:19:18.609 6ba Level-0 table #55: started
+2020/01/31-12:19:18.839 6ba Level-0 table #55: 2455936 bytes OK
+2020/01/31-12:19:18.846 6ba Delete type=0 #52
+2020/01/31-12:19:18.851 6ba Compacting 4@0 + 3@1 files
+2020/01/31-12:19:19.281 6ba Generated table #56@0: 15 keys, 2378261 bytes
+2020/01/31-12:19:20.026 6ba Generated table #57@0: 19 keys, 2153409 bytes
+2020/01/31-12:19:20.042 6ba Generated table #58@0: 2 keys, 73180 bytes
+2020/01/31-12:19:20.042 6ba Compacted 4@0 + 3@1 files => 4604850 bytes
+2020/01/31-12:19:20.045 6ba compacted to: files[ 0 3 1 0 0 0 0 ]
+2020/01/31-12:19:20.046 6ba Delete type=2 #44
+2020/01/31-12:19:20.047 6ba Delete type=2 #55
+2020/01/31-12:19:20.049 6ba Delete type=2 #47
+2020/01/31-12:19:20.051 6ba Delete type=2 #50
+2020/01/31-12:19:20.052 6ba Delete type=2 #53
+2020/01/31-12:19:20.054 6ba Delete type=2 #45
+2020/01/31-12:19:20.054 6ba Delete type=2 #43
